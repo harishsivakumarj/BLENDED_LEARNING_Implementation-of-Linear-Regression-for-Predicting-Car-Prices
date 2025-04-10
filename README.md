@@ -29,8 +29,8 @@ Display the predictions and evaluation metrics.
 Program to implement linear regression model for predicting car prices and test assumptions.
 
 
-Developed by: Mohammad suhael 
-RegisterNumber:  212224230164
+Developed by: S Harish
+RegisterNumber:  212223040062
 ## Program:
 ```
 
